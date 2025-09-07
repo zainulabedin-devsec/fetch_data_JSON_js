@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "title": "Healthy Eating",
+      "description": "A guide to maintaining a balanced diet.",
+      "ways_to_achieve": [
+        "Eat more fruits and vegetables",
+        "Stay hydrated",
+        "Limit processed foods"
+      ],
+      "benefits": [
+        "Boosts energy",
+        "Improves immunity",
+        "Supports mental health"
+      ]
+    },
+    {
+      "title": "Regular Exercise",
+      "description": "Tips to stay active daily.",
+      "ways_to_achieve": [
+        "Take a 30-minute walk",
+        "Join a fitness class",
+        "Do stretching exercises"
+      ],
+      "benefits": [
+        "Strengthens muscles",
+        "Improves mood",
+        "Supports cardiovascular health"
+      ]
+    }
+  ]
+}
